@@ -1,0 +1,26 @@
+Algorithms  
+
+VAR 
+character 1:string :="hello" + space //&nbsp
+character 2:string :="word" =  + space //&nbsp
+character 3:string :="." +space //&nbsp
+
+/*The length of the sentence (the number of characters).*/
+
+sentence:= [character 1 ,  character 2 ,  character 3 ]
+// sentence = "hello" "word" " . "
+For i From 0 To sentence.length step step DO
+ get  i From 0 To sentence.length 
+ print sentence.length[i]
+// 3 
+
+//The number of vowels in the sentence. 
+sentence := character 1+ character 2 +character 3  
+// "hello word ."
+For i From 0 To sentence.length step step DO
+get  i From 0 To sentence.length 
+print sentence.length[i]
+// 10
+logique 
+//12
+  
